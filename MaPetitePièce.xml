@@ -19,7 +19,11 @@
   <text>
       <body>
          <div>
-            <sp><p>blabla</p></sp>
+            <sp>
+               <speaker>LAURENT</speaker>
+               <p>blabla</p></sp>
+            <sp><speaker>Ioana</speaker>
+            <p>Pas blabla</p></sp>
          </div>
       </body>
   </text>
