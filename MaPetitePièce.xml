@@ -24,6 +24,10 @@
                <p>blabla</p></sp>
             <sp><speaker>Ioana</speaker>
             <p>Pas blabla</p></sp>
+            <sp>
+               <speaker>toto</speaker>
+               <p>Et hop!</p>
+            </sp>
          </div>
       </body>
   </text>
